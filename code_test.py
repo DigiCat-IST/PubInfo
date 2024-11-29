@@ -2,7 +2,6 @@ import requests
 from requests import Response
 from typing_extensions import Any, Dict, List
 
-#it should be clear what kind of data the variables are. 
 #black "file path" will organize the file better
 #mypy will check if the definition of the variables is well done(?)
 #isort will sort imports in alphabetic order
